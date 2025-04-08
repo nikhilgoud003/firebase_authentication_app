@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Firebase Auth App',
+      title: 'Firebase Authentication App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
